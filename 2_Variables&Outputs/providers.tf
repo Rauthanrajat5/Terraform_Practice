@@ -5,7 +5,7 @@ terraform {
       version = "4.73.0"
     }
   }
-}
+} 
 
 provider "azurerm" {
   # Configuration options
